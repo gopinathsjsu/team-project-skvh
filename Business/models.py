@@ -29,3 +29,11 @@ class Class(models.Model):
     def spots_filled(self):
         enrolled_count = Enrolled.objects.filter(enrolled_class=self).count()
         return enrolled_count
+    
+class Plan(models.Model):
+    name = models.CharField(max_length=50, unique=True, blank=True, null=True)
+    price = models.IntegerField()
+    duration = models.IntegerField(help_text="duration in days")
+
+    def __str__(self):
+        return self.name
