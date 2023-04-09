@@ -25,3 +25,10 @@ class Entry(models.Model):
         hours = int(seconds // 3600)
         minutes = int((seconds % 3600) // 60)
         return seconds
+    
+class GymUsage(models.Model):
+    entry = models.ForeignKey(
+        'Daily.Entry', on_delete=models.DO_NOTHING)
+    equipment = models.ForeignKey(
+        'Gym.Equipment', on_delete=models.DO_NOTHING)
+    hours = models.IntegerField(default=0)
