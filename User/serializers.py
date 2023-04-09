@@ -17,3 +17,10 @@ class UserSerializer(ModelSerializer):
             return 'member'
         else:
             return 'non-member'
+        
+
+class EnrolledSerializer(ModelSerializer):
+    enrolled_class = ClassSerializer()
+    class Meta:
+        model = Enrolled
+        fields = ('enrolled_class',)
