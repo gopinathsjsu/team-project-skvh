@@ -37,3 +37,22 @@ class Plan(models.Model):
 
     def __str__(self):
         return self.name
+    
+
+class Membership(models.Model):
+    plan = models.ForeignKey(
+        'Business.Plan', on_delete=models.CASCADE)
+    user = models.ForeignKey(
+        'User.User', on_delete=models.CASCADE)
+    start_date = models.DateField(default=datetime.date.today)
+
+    def __str__(self):
+        return self.plan + ' ' + self.user + ' ' + self.location
+
+    def get_expiry_date(self):
+        current_date = datetime.date.today()
+        return current_date + datetime.timedelta(days=self.plan.duration)
+
+    @property
+    def has_expired(self):
+        return datetime.date.today() >= self.get_expiry_date()
