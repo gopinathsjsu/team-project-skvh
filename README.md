@@ -19,3 +19,6 @@
 - Every week, our team focused on the XP Core Value of Respect. We discussed the importance of treating each other with respect, being mindful of our communication, and respecting everyone's role.
 
 - We agreed to practice active listening and ensure everyone feels heard and respected in meetings.
+
+## UI Wireframes
+
