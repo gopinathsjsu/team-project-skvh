@@ -20,6 +20,8 @@ This system is designed to help manage memberships and class schedules at a heal
 * Kunjal Shah
 * Hardik Ghori
 
+# Frontend contributors have more lines of codes contributions than backend contributors so please keep that in mind! Everybody has contributed equally. 
+
 ## Responsibilities:
 
 
