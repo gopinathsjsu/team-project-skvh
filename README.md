@@ -147,34 +147,34 @@ This system is designed to help manage memberships and class schedules at a heal
 
 ## UI wireframes
 
-Homepage for Non-members
+**Homepage for Non-members**
 ![alt_text](images/1.png "image_tooltip")
 
-Homepage for Admin
+**Homepage for Admin**
 ![alt_text](images/2.png "image_tooltip")
 
-Enrollment page for admin
+**Enrollment page for admin**
 ![alt_text](images/3.png "image_tooltip")
 
-Check-in/out for admin
+**Check-in/out for admin**
 ![alt_text](images/4.png "image_tooltip")
 
-Class Schedule
+**Class Schedule**
 ![alt_text](images/5.png "image_tooltip")
 
-Analytics page
+**Analytics page**
 ![alt_text](images/6.png "image_tooltip")
 
-Homepage for Members
+**Homepage for Members**
 ![alt_text](images/7.png "image_tooltip")
 
-View enrolled classes for members
+**View enrolled classes for members**
 ![alt_text](images/8.png "image_tooltip")
 
-View past activity for members
+**View past activity for members**
 ![alt_text](images/9.png "image_tooltip")
 
-Log activity for members
+**Log activity for members**
 ![alt_text](images/10.png "image_tooltip")
 
 
