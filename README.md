@@ -177,7 +177,3 @@ This system is designed to help manage memberships and class schedules at a heal
 **Backend: **We have chosen Python Django as our backend framework because of its robustness, scalability, and ease of use. Django comes with many built-in features such as ORM, URL routing, and templating that make it easy to develop complex web applications. Additionally, Django provides strong security measures out of the box, which is critical for our Health Club membership management system.
 
 **Database:** We have selected SQLite as our database management system because of its simplicity, efficiency, and ease of use. SQLite is a lightweight and self-contained database engine that can be easily integrated with Django. As our Health Club membership management system is not expected to have a high volume of transactions, SQLite is a suitable choice for our application.
-
-
-
-![image](https://github.com/gopinathsjsu/team-project-skvh/assets/111547100/a693f4d6-eb74-455b-9496-153b09a967fc)
