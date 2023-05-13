@@ -131,7 +131,7 @@ This system is designed to help manage memberships and class schedules at a heal
 
 ## GITHUB REPO LINK
 
-**_<span style="text-decoration:underline;">TODO</span>_**
+**https://github.com/gopinathsjsu/team-project-skvh**
 
 
 ### Weekly Scrum Board
