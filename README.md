@@ -136,13 +136,11 @@ This system is designed to help manage memberships and class schedules at a heal
 
 ### Weekly Scrum Board
 
-[https://docs.google.com/document/d/1czA4NrqPjk_5Ac9Ci2JjRZKj_aMWVBgfvLu5hFUHJEc/edit#heading=h.trc4oyiwskjc](https://docs.google.com/document/d/1czA4NrqPjk_5Ac9Ci2JjRZKj_aMWVBgfvLu5hFUHJEc/edit#heading=h.trc4oyiwskjc)
-[https://docs.google.com/spreadsheets/d/1clo0Miqm2Qis2uHiCfvOmClRU8asRvP9NxImGWLJ7_g/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1clo0Miqm2Qis2uHiCfvOmClRU8asRvP9NxImGWLJ7_g/edit?usp=sharing)
+[https://docs.google.com/document/d/1YyaEj6zxF_y8wtQzulu4DF5FMRfwAucxF8hnK_1j0Zw/edit?usp=sharing](https://docs.google.com/document/d/1YyaEj6zxF_y8wtQzulu4DF5FMRfwAucxF8hnK_1j0Zw/edit?usp=sharing)
 
 ## TaskSheet & Burndown Charts
 
-[https://docs.google.com/spreadsheets/d/1zeU2K-W-42jAwyu8K5sS-E_FTBThfeprQRj7bWP147U/edit#gid=0](https://docs.google.com/spreadsheets/d/1zeU2K-W-42jAwyu8K5sS-E_FTBThfeprQRj7bWP147U/edit#gid=0) 
-
+[https://docs.google.com/spreadsheets/d/1clo0Miqm2Qis2uHiCfvOmClRU8asRvP9NxImGWLJ7_g/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1clo0Miqm2Qis2uHiCfvOmClRU8asRvP9NxImGWLJ7_g/edit?usp=sharing)
 
 # Project Diagrams:
 
